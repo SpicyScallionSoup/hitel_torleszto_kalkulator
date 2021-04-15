@@ -1,3 +1,3 @@
-# hitel_torleszto_kalkulator
+# hitel_torleszto_kalkulator original by Csaba504
 
-Teszt: https://csaba504.github.io/hitel_torleszto_kalkulator/
+https://spicyscallionsoup.github.io/hitel_torleszto_kalkulator/
